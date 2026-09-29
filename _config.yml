@@ -1,0 +1,20 @@
+title: Dobi Apps
+description: English learning apps with audiobooks, stories and ebooks by CEFR level (A1–C2).
+url: https://dobiapps-com.github.io
+baseurl: /website
+lang: en
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+author: The Dobi Apps Team
+social:
+  name: Dobi Apps
+  links:
+    - https://dobiapps.com
+exclude:
+  - scripts
